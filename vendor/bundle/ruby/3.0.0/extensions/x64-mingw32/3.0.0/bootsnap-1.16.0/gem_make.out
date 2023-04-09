@@ -1,0 +1,16 @@
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+C:/Ruby30-x64/bin/ruby.exe -I C:/Ruby30-x64/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230409-3880-fnh0md sitelibdir\=./.gem.20230409-3880-fnh0md clean
+
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230409-3880-fnh0md sitelibdir\=./.gem.20230409-3880-fnh0md
+generating bootsnap-x64-mingw32.def
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230409-3880-fnh0md sitelibdir\=./.gem.20230409-3880-fnh0md install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20230409-3880-fnh0md/bootsnap

@@ -1,0 +1,19 @@
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+C:/Ruby30-x64/bin/ruby.exe -I C:/Ruby30-x64/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... no
+checking for rb_scheduler_timeout()... yes
+checking for rb_io_wait()... yes
+creating Makefile
+
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230409-3880-xa6piu sitelibdir\=./.gem.20230409-3880-xa6piu clean
+
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230409-3880-xa6piu sitelibdir\=./.gem.20230409-3880-xa6piu
+generating console-x64-mingw32.def
+compiling console.c
+linking shared-object io/console.so
+
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230409-3880-xa6piu sitelibdir\=./.gem.20230409-3880-xa6piu install
+/usr/bin/install -c -m 0755 console.so ./.gem.20230409-3880-xa6piu/io

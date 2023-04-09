@@ -1,0 +1,18 @@
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+C:/Ruby30-x64/bin/ruby.exe -I C:/Ruby30-x64/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230409-3880-1o5j41 sitelibdir\=./.gem.20230409-3880-1o5j41 clean
+
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230409-3880-1o5j41 sitelibdir\=./.gem.20230409-3880-1o5j41
+generating cparse-x64-mingw32.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: C:/Users/default.DESKTOP-AM37V4U/Documents/rails_app/expenses/expenses/vendor/bundle/ruby/3.0.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230409-3880-1o5j41 sitelibdir\=./.gem.20230409-3880-1o5j41 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20230409-3880-1o5j41/racc
